@@ -25,3 +25,5 @@ Gravando na memória no endereço de var guardado em $t2 o valor no registrador 
 ```
 sw $s3, $t2
 ```
+
+### 2. Criar um código Assembly MIPS para guardar uma string em uma variável e imprimi-la na tela.
